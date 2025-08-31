@@ -1,0 +1,2 @@
+add_executable(sps30_i2c_example sps30_i2c_example_usage.c)
+target_link_libraries(sps30_i2c_example sps30_i2c)
